@@ -1,0 +1,13 @@
+#wpnlh_navbar{padding:15px;border-radius: 4px 0 0 4px;background: rgb(52,92,181);background: -moz-linear-gradient(left, rgba(52,92,181,1) 0%, rgba(57,119,212,1) 100%);background: -webkit-linear-gradient(left, rgba(52,92,181,1) 0%,rgba(57,119,212,1) 100%);    background: linear-gradient(to right, rgba(52,92,181,1) 0%,rgba(57,119,212,1) 100%);    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#345cb5', endColorstr='#3977D4',GradientType=1);}
+#wpnlh_navbar span{color:#fff;font-size:18px;}
+#wpnlh_navbar small{color:#fff;font-size:10px;}
+#wpnlh_content{background:#fff;display: block;min-height:250px }
+.wpnlh_content_block{padding:15px;box-shadow: 0 8px 24px rgba(0,0,0,0.15);border-radius: 4px;}
+#wpnlhTextBox{padding: 15px;height: 40px;width: 100%;}
+#wpnlh_select{width:100%;padding:15px;height:40px;}
+#wpnlh_button{background:#03A9F4;float:right;border:none;padding:15px;color:#fff;width:160px;margin:10px 0}
+#wpnlh_button:hover{background-color:#0692d2;cursor:pointer;}
+.NoAdblockPlusInput{width: 98%;padding: 9px;text-align: center;font-size: 18px;color:#939393}
+.NoAdblockPlusTextArea{width: 98%;padding: 9px;text-align: center;font-size: 18px;color:#939393;box-shadow:0 8px 24px rgba(0,0,0,0.15);border-radius:4px;margin:10px 0}
+#NoAdblockPlusSelect{width: 98%;padding: 9px;text-align: center;height:42px;color:#939393;box-shadow:0 8px 24px rgba(0,0,0,0.15);border-radius:4px;margin:10px 0}
+#NoAdblockPlusNotice{padding: 18px;border-radius:0 4px 4px 0;/* text-align:right; */background:#e14853;background:-moz-linear-gradient(left,rgba(225,72,83,1) 0%,rgba(232,49,43,1) 100%);background:-webkit-linear-gradient(left,rgba(225,72,83,1) 0%,rgba(232,49,43,1) 100%);background:linear-gradient(to right,rgba(225,72,83,1) 0%,rgba(232,49,43,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#E14853',endColorstr='#E8312B',GradientType=1);width: 96%;color: #fff;box-shadow: 0 8px 24px rgba(0,0,0,0.15);border-radius: 4px;margin: 10px 0;}
